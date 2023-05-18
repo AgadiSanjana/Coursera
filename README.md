@@ -1,3 +1,3 @@
 # Coursera
-My first repo
+My first repositery.
 I am editing the README file. Adding some more details about the project description.
